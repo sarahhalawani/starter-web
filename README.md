@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 
-Going through the toturials and following along to get familiarized with git
+Going through the toturials and following along to get familiarized with git, so far so good 
 
 ## How to Contribute
 
